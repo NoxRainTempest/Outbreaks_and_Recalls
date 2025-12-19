@@ -93,6 +93,11 @@ Rayna (Nox) Shake- [@NoxRainTempest](https://www.github.com/NoxRainTempest)
 - Recall initiation dates are stored in YYYY-mm format as strings.
 - Distribution patterns may include multiple states, regions, or nationwide labels.
 - This project is exploratory and does not imply causation between recalls and outbreaks.
+  
 ## Findings
 
 As of my most recent commits, I've found that there does not seem to be much correlation between FDA food recalls and reported foodborne disease outbreaks from the CDC. While I had anticipated more proof of a potential correlation, it also makes sense that there wasn't as the FDA recalls are done in part to limit the spread of foodborne illnesses.
+
+## ERD
+The ERD of the databases used in this project.
+[ERD with colored entities (UML notation).pdf](https://github.com/user-attachments/files/24252095/ERD.with.colored.entities.UML.notation.pdf)
